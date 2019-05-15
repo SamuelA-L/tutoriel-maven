@@ -1,10 +1,8 @@
-<!--password-md5 module pom-->
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
 		 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-		 
     <parent>
         <artifactId>java-multi-modules</artifactId>
         <groupId>com.mkyong.multi</groupId>
@@ -12,7 +10,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-	<!-- password-md5 info -->
+    <!-- password-md5 info -->
     <groupId>com.mkyong.password</groupId>
     <artifactId>password-md5</artifactId>
     <version>1.0</version>
@@ -27,3 +25,4 @@
     </dependencies>
 
 </project>
+
